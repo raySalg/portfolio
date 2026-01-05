@@ -1,0 +1,57 @@
+    .text-purple1 {
+        color: rgb(137, 98, 246);
+    }
+    .text-purple2 {
+        color: #d2a9edff;
+    }
+    .text-purple3 {
+        color: #cec8e6ff;
+    }
+
+    .text-purple4{
+        color: rgb(49, 36, 100);
+    }
+
+    .b-purple3{
+        background-color: #b1aacdff;
+    }
+
+    .border-purple3{
+        border-bottom: 1px solid #b1aacdff !important;
+    }
+    .degradeb{
+        background: linear-gradient(to bottom, transparent 30%, #000000 90%); 
+    }
+
+    .degradet{
+        background: linear-gradient(to top, transparent 3%, #080424  100%); 
+    }
+
+    .divisor{
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+    }
+    
+    .bg-black{
+        background-color:black;
+    }
+
+
+    .list-group-item.active  {
+        
+        background-color: rgb(137, 98, 246);
+    }
+
+.h-100{
+   height:100% !important;
+}
+
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
